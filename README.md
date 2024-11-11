@@ -5,7 +5,7 @@ The purpose of this project was to analyze user data for Citi Bikes in NYC to pr
 The purpose of this project was to analyze user data for NY Citi Bikes. Using Tableau to create data visuals that tell a story and insights that can be used to better target primary users and recongize trends. Helping end users who may not be familair with data to easily understand key business metrics.
 
 # Analysis
-The full analysis can be found in the tableau public link [here]([url](https://public.tableau.com/app/profile/malik.don2760/viz/CitiBikeAnalysis_17312076424340/Story1)) link to dashboard
+The full analysis can be with this link to my storyboard created with [Tableau BI software.]([url](https://public.tableau.com/app/profile/malik.don2760/viz/CitiBikeAnalysis_17312076424340/Story1))
 
 # Insights
 - Male riders made up more than % of Total users
