@@ -1,28 +1,39 @@
-# CitiBike Sharing Analysis
-The purpose of this project was to analyze user data for Citi Bikes in NYC to present insights to non-technical end users
+
+# CitiBike Data Insights: Analyzing User Behavior and Trip Patterns
 
 # Overview
-The purpose of this project was to analyze user data for NY Citi Bikes. Using Tableau to create data visuals that tell a story and insights that can be used to better target primary users and recongize trends. Helping end users who may not be familair with data to easily understand key business metrics.
+This project aims to analyze and visualize NYC CitiBike trip data for non-technical end users. This demo highlights the use of Tableau for data visualization and Python for data analysis.
 
-# Analysis
-The full analysis can be with this link to my storyboard created with [Tableau BI software.]([url](https://public.tableau.com/app/profile/malik.don2760/viz/CitiBikeAnalysis_17312076424340/Story1))
+# Purpose
+The primary goal of this project is to provide an interactive and dynamic dashboard that allows users to explore the CitiBike dataset to uncover patterns and trends that could help improve bike-sharing services and user experience.
 
 # Insights
-- Male riders made up more than % of Total users
-*** IMAGE ***
 
-- Most users are starting from ____ station
-*** IMAGE ***
+The full analysis can be found on Tableau Public here: https://shorturl.at/7RUBk
 
-- Manhattan was the most popular borough although not shocking but doing a further in depth look at the specific locations and the stores or environments around them may help build customer profiles for user to better market to
-*** IMAGE ***
+High level highlights
+- Nearly 50% of riders with known gender are male.
+- Generation Alpha accounts for 42% of users.
+- The average ride time is approximately 23 minutes.
+- Manhattan is the most popular area, with W 20 St & 11 Ave as the most frequent station.
+- Sunday is the most popular day overall, with Wednesday being the peak day for male users and Saturday for female users.
 
+      
 # Actions
--  Business can see who their core audience is while also looking at opportunity areas for the demographic that can help grow the business even further.
+- Offer targeted promotions or discounts to specific user groups (e.g., millennials, first-time users) to increase usage.
+- Use trip start and end data to identify high-demand areas for optimal station placement, improving convenience and reducing bike shortages.
+- Adjust fleet availability and pricing strategies during peak usage times to better serve users.
+- Continuously monitor and update user segments to refine service offerings and adjust for seasonal trends or behavioral changes.
 
 # Summary
-Overall the findings show that the predominat users of Citi Bikes are male users who most likely commute to work in the lower Manhattan area during week days. These are also the users that are paying to use the platform due to consistency. The timing of the rides are fairly short with majority peaking around 5-6 minutes and is most likely due to the proiximity of subways in the city or proiximity of Citi bike stations.
+This project provides useful insights into how CitiBike users behave and how bike trips are made. Looking ahead, we could improve the analysis by including weather data (like temperature or rain) and the time of day. These factors could give us a better understanding of how weather affects when and how long people ride bikes. For example, we could see if more people use bikes when it's warmer or if rainy days lead to fewer trips. Similarly, looking at what times of day people use bikes the most could help manage bike availability, making sure more bikes are ready during busy periods like rush hours or evenings.
 
-To gain further customer insights I would perform 2 more analysis to add on. 
-- One would be an analysis of the stores or envrionment around the highest usage areas to better build a customer profile.
-- Secondly would be analyzing the relationship between the temperature and the bike usage, to see how to better drive usage during colder or hotter months.
+# Features
+- Trip Duration Bands: Categorizes trip durations into predefined time ranges for easy analysis.
+- Dynamic User Grouping: Allows for dynamic segmentation of users based on Gender, Generational Cohorts, or User Type.
+- Interactive Dashboards: Built with Tableau to provide interactive visualizations of the data, with the ability to toggle between different segments for deeper analysis.
+- Calculated Fields: Used to categorize data (e.g., Trip Duration, User Groups) into meaningful bands for easier comparison.
+Tools & Technologies
+- Tableau: Used for creating interactive dashboards and visualizations.
+- Python: Used for data processing, cleaning, and analysis. Calculations and data transformations were performed using Python libraries such as Pandas.
+- CitiBike Dataset: Obtained from Kaggle (https://citibikenyc.com/system-data), the dataset contains trip-level data for CitiBike users, including information on trip duration, start and end stations, user type, and more. 
