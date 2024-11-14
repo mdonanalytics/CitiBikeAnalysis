@@ -14,9 +14,13 @@ The full analysis can be found on Tableau Public here: https://shorturl.at/7RUBk
 High level highlights
 - Nearly 50% of riders with known gender are male.
 - Generation Alpha accounts for 42% of users.
+<img width="795" alt="Screenshot 2024-11-14 at 4 15 46 PM" src="https://github.com/user-attachments/assets/698c2053-3214-4c7d-bd16-8989244125b8">
 - The average ride time is approximately 23 minutes.
+<img width="792" alt="Screenshot 2024-11-14 at 4 15 34 PM" src="https://github.com/user-attachments/assets/5279dea6-e408-44ea-8cdb-76deb675372a">
 - Manhattan is the most popular area, with W 20 St & 11 Ave as the most frequent station.
+<img width="798" alt="Screenshot 2024-11-14 at 4 16 10 PM" src="https://github.com/user-attachments/assets/3b264168-9a46-4db5-82bf-07dd714fc1cf">
 - Sunday is the most popular day overall, with Wednesday being the peak day for male users and Saturday for female users.
+<img width="797" alt="Screenshot 2024-11-14 at 4 16 23 PM" src="https://github.com/user-attachments/assets/99ef2ef8-6b07-4f31-bf67-9fa6ce849785">
 
       
 # Actions
