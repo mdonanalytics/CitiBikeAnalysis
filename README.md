@@ -12,6 +12,8 @@ The primary goal of this project is to provide an interactive and dynamic dashbo
 The full analysis can be found on Tableau Public here: https://shorturl.at/7RUBk
 
 High level highlights
+- Subscriber users account for 58% of of total rides
+
 - Nearly 50% of riders with known gender are male.
 
 - Generation Alpha accounts for 42% of users.
